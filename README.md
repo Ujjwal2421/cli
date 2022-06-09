@@ -53,7 +53,7 @@ $ curl -sL https://civo.com/get | sh
 
 ### Installing on Windows
 
-Civo CLI is available to download on windows via Chocolatey and Scoop
+Civo CLI is available to download on windows via Chocolatey and Scoop.
 
 For installing via Chocolatey you need [Chocolatey](https://chocolatey.org/install) package manager installed on your PC.
 - run the following command after confirming Chocolatey on your PC 
